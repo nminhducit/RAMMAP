@@ -67,7 +67,5 @@ You can recover from Sysinternals and its suppliers only direct damages up to U.
 
 It also applies even if Sysinternals knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential, or other damages.
 
-### Note: As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French.
-
-### LEGAL EFFECT
-This Agreement describes certain legal rights. You may have other rights under the laws of your country. This contract does not modify your rights under the laws of your country if they do not permit it.
+### Note: 
+As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French.
