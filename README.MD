@@ -69,16 +69,5 @@ It also applies even if Sysinternals knew or should have known about the possibi
 
 ### Note: As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French.
 
-### DISCLAIMER OF WARRANTY
-The licensed software is provided “as is”. Any use of this software is at your sole risk. Sysinternals makes no other express warranties. You may have additional rights under local consumer protection law, which this contract cannot change. Where permitted by local law, the implied warranties of merchantability, fitness for a particular purpose and non-infringement are excluded.
-
-### LIMITATION OF DAMAGES AND EXCLUSION OF LIABILITY FOR DAMAGES
-You can recover compensation from Sysinternals and its suppliers for direct damages only up to US$5.00. You are not entitled to compensation for any other damages, including special, consequential or incidental damages and lost profits. This limitation concerns:
-
-- Anything related to software, services or content (including code) appearing on third-party websites or in third-party programs.
-- Claims for breach of contract or warranty, or for strict liability, negligence or other fault to the extent permitted by applicable law.
-
-It also applies even if Sysinternals knew or should have known of the possibility of such damage. If your jurisdiction does not allow the exclusion or limitation of liability for consequential, incidental, or any other damages, the above limitation or exclusion may not apply to you.
-
 ### LEGAL EFFECT
 This Agreement describes certain legal rights. You may have other rights under the laws of your country. This contract does not modify your rights under the laws of your country if they do not permit it.
